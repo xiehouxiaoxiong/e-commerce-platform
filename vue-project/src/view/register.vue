@@ -1,4 +1,6 @@
-<template>注册</template>
+<template>
+    <div>注册</div>
+</template>
 <script>
 export default {
     name: "register"
